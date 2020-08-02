@@ -6,7 +6,7 @@
 - 🌱 Currently doing enrolled [@Datagix](https://www.datagix.com/)...maybe creating the cloud of tomorrow in algeria dunno.
 - ⚡ Team Dev Leader [@OpenMinds Club](https://openmindsclub.net/)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://openmindsclub.net/images/logo.png" width="230">
 
 [![](https://img.shields.io/badge/LinkedIn-imad-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
 [![](https://img.shields.io/badge/Gmail-imadom568%40gmail.com-red)](mailto:imadom568@gmail.com)
