@@ -2,11 +2,11 @@
 #### I'm Imad 
 ### Web Developer And Machin learning enthusiast 👨‍💻
 ![Imad Git Hub Stats](https://github-readme-stats.vercel.app/api?username=serinir&show_icons=true&theme=tokyonight&hide=issues)
-
+<img align='right' src="https://openmindsclub.net/images/logo.png" width="230">
 - 🌱 Currently doing enrolled [@Datagix](https://www.datagix.com/)...maybe creating the cloud of tomorrow in algeria dunno.
 - ⚡ Team Dev Leader [@OpenMinds Club](https://openmindsclub.net/)
 
-<img align='right' src="https://openmindsclub.net/images/logo.png" width="230">
+
 
 [![](https://img.shields.io/badge/LinkedIn-imad-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
 [![](https://img.shields.io/badge/Gmail-imadom568%40gmail.com-red)](mailto:imadom568@gmail.com)
