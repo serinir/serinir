@@ -3,7 +3,9 @@
 ### Web Developer And Machin learning enthusiast 👨‍💻
 
 <img align='right' src="https://openmindsclub.net/images/logo.png" width="200">
+
 - 🌱 Currently doing enrolled [@Datagix](https://www.datagix.com/)...maybe creating the cloud of tomorrow in algeria dunno.
+
 - ⚡ Team Dev Leader [@OpenMinds Club](https://openmindsclub.net/)
 
 
