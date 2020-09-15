@@ -2,7 +2,7 @@
 #### I'm Imad 
 ### Web Developer And Machin learning enthusiast 👨‍💻 
 
-- 🌱 Currently doing enrolled [@Datagix](https://www.datagix.com/)...maybe creating the cloud of tomorrow in algeria dunno.
+- 🌱 Currently enrolled [@Datagix](https://www.datagix.com/)...maybe creating the cloud of tomorrow in algeria dunno.
 - ⚡ Team Dev Leader [@OpenMinds Club](https://openmindsclub.net/)
 
 
