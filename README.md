@@ -2,8 +2,7 @@
 #### I'm Imad 
 ### Web Developer And Machin learning enthusiast 👨‍💻 
 
-- 🌱 Currently enrolled [@Datagix](https://www.datagix.com/)...maybe creating the cloud of tomorrow in algeria dunno.
-- ⚡ Team Dev Leader [@OpenMinds Club](https://openmindsclub.net/)
+- ⚡ Ex-Team Dev Leader [@OpenMinds Club](https://openmindsclub.net/)
 
 
 [![](https://img.shields.io/badge/LinkedIn-imad-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
