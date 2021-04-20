@@ -35,10 +35,11 @@ const Imad = {
 
 # Projects
 
-| Name                          | Repository                                                       | Institute |
-|-------------------------------|------------------------------------------------------------------|-----------|
-| Process and memory simulation | [Link](https://github.com/serinir/Process-and-memory-simulation) | USTHB     |
-| USTHB ARCHI2 TASM             | [Link](https://github.com/serinir/USTHB-ARCHI2-TASM)             | USTHB     |
-| Vidal Data Extraction         | [Link](https://github.com/serinir/Vidal-Data-Extraction)         | USTHB     |
-| XML data extraction           | [Link](https://github.com/serinir/XML-data-extraction)           | USTHB     |
-| Tar SHell                     | [Link](https://github.com/serinir/tsh)                           | U-Paris   |
+| Name                                                    | Repository                                                       | Institute |
+|---------------------------------------------------------|------------------------------------------------------------------|-----------|
+| Composition de Musique à l’Aide des Réseaux de Neurones | [Link](https://leimad.tech/Music_Generation__pfe.pdf)            | USTHB     |
+| Process and memory simulation                           | [Repo](https://github.com/serinir/Process-and-memory-simulation) | USTHB     |
+| USTHB ARCHI2 TASM                                       | [Repo](https://github.com/serinir/USTHB-ARCHI2-TASM)             | USTHB     |
+| Vidal Data Extraction                                   | [Repo](https://github.com/serinir/Vidal-Data-Extraction)         | USTHB     |
+| XML data extraction                                     | [Repo](https://github.com/serinir/XML-data-extraction)           | USTHB     |
+| Tar SHell                                               | [Repo](https://github.com/serinir/tsh)                           | U-Paris   |
