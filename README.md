@@ -35,7 +35,7 @@ const Imad = {
 
 # Projects
 
-| Name                          | Repository                                                       | institute |
+| Name                          | Repository                                                       | Institute |
 |-------------------------------|------------------------------------------------------------------|-----------|
 | Process and memory simulation | [Link](https://github.com/serinir/Process-and-memory-simulation) | USTHB     |
 | USTHB ARCHI2 TASM             | [Link](https://github.com/serinir/USTHB-ARCHI2-TASM)             | USTHB     |
