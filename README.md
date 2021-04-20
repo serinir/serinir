@@ -24,3 +24,21 @@ const Imad = {
     architecture: ["microservices", "Serverless Architecture", "event-driven", "Single page applications", "PWA"],
 }
 ```
+
+# Competitions
+
+| Competions           | Project                                       | Rank |
+|----------------------|-----------------------------------------------|------|
+| DevFest Algiers 2019 | [knoten](https://devpost.com/software/knoten) | 3    |
+| TechRace By Slush    | /                                             | 3    |
+
+
+# Projects
+
+| Name                          | Repository                                                       | institute |
+|-------------------------------|------------------------------------------------------------------|-----------|
+| Process and memory simulation | [Link](https://github.com/serinir/Process-and-memory-simulation) | USTHB     |
+| USTHB ARCHI2 TASM             | [Link](https://github.com/serinir/USTHB-ARCHI2-TASM)             | USTHB     |
+| Vidal Data Extraction         | [Link](https://github.com/serinir/Vidal-Data-Extraction)         | USTHB     |
+| XML data extraction           | [Link](https://github.com/serinir/XML-data-extraction)           | USTHB     |
+| Tar SHell                     | [Link](https://github.com/serinir/tsh)                           | U-Paris   |
