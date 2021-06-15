@@ -3,6 +3,7 @@
 ### Web Developer And Machin learning enthusiast 👨‍💻 
 
 - ⚡ Ex-Team Dev Leader [@OpenMinds Club](https://openmindsclub.net/)
+- 🏫 Student [@Université de Paris](https://u-paris.fr/en/)  
 
 
 [![](https://img.shields.io/badge/LinkedIn-imad-blue)](https://www.linkedin.com/in/imerz/)
