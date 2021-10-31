@@ -18,6 +18,7 @@ const Imad = {
         backEnd: ["nodejs","python", "PHP"],
         fronEnd: ["Vue","Nuxt","Gridsome","React"],
         mobileApp: ["Flutter"],
+        data:['Sklearn','pandas','matplotlib','pytorch','statsmodels','R']
         database: ["MongoDB","MySql/MariaDb","Redis"],
         devOps: ["Docker", "Nginx", "AWS", "Jenkins"],
         misc: ["Firebase", "Socket.IO"]
