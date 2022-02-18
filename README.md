@@ -39,10 +39,13 @@ const Imad = {
 
 | Name                                                    | Repository                                                       | Institute |
 |---------------------------------------------------------|------------------------------------------------------------------|-----------|
-| Composition de Musique à l’Aide des Réseaux de Neurones | [Link](https://leimad.tech/Music_Generation__pfe.pdf)            | USTHB     |
+| Optimisation of Neural Language Translation with semantic annotation of source and target dataset| Private                 | U-Paris   |
+| PandaPods, a web platform for easy and fat app deployment| [Link](https://panda.engineer)                                  | U-Paris   |
+| ICU dashboard                                           | Private                                                          | LIED      |
+| Net Radio                                               | [Repo](https://github.com/serinir/NetRadio)                      | U-Paris   |
+| Composition de Musique à l’Aide des Réseaux de Neurones | [File](https://leimad.tech/Music_Generation__pfe.pdf)            | USTHB     |
 | Process and memory simulation                           | [Repo](https://github.com/serinir/Process-and-memory-simulation) | USTHB     |
-| USTHB ARCHI2 TASM                                       | [Repo](https://github.com/serinir/USTHB-ARCHI2-TASM)             | USTHB     |
 | Vidal Data Extraction                                   | [Repo](https://github.com/serinir/Vidal-Data-Extraction)         | USTHB     |
 | XML data extraction                                     | [Repo](https://github.com/serinir/XML-data-extraction)           | USTHB     |
+| USTHB ARCHI2 TASM                                       | [Repo](https://github.com/serinir/USTHB-ARCHI2-TASM)             | USTHB     |
 | Tar SHell                                               | [Repo](https://github.com/serinir/tsh)                           | U-Paris   |
-| Net Radio                                               | [Repo](https://github.com/serinir/NetRadio)                      | U-Paris   |
