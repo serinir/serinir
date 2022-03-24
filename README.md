@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm Imad 
-### Web Developer And Machin learning enthusiast 👨‍💻 
+### Data Scientist, Web Developer And Machin learning enthusiast 👨‍💻 
 
 - ⚡ Ex-Team Dev Leader [@OpenMinds Club](https://openmindsclub.net/)
 - 🏫 Student [@Université de Paris](https://u-paris.fr/en/)  
