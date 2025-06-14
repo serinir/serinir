@@ -1,32 +1,42 @@
 ### Hi there 👋
 #### I'm Imad 
-### Data Scientist, Web Developer And Machin learning enthusiast 👨‍💻 
+### Data Scientist, Crafter And Machin learning enthusiast 👨‍💻 
 
 - ⚡ Ex-Team Dev Leader [@OpenMinds Club](https://openmindsclub.net/)
-- 🏫 Student [@Université de Paris](https://u-paris.fr/en/)  
+- 🏫 Ex-Student [@Université de Paris](https://u-paris.fr/en/)  
 
 
 [![](https://img.shields.io/badge/LinkedIn-imad-blue)](https://www.linkedin.com/in/imerz/)
 [![](https://img.shields.io/badge/Gmail-imadom568%40gmail.com-red)](mailto:imadom568@gmail.com)
-[LeImad](https://leimad.tech)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
+```js
 const Imad = {
-    askMeAbout: ["Machin Learning", "Music", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs","python", "PHP"],
-        fronEnd: ["Vue","Nuxt","Gridsome","React"],
-        mobileApp: ["Flutter"],
-        data:['Sklearn','pandas','matplotlib','pytorch','statsmodels','R']
-        database: ["MongoDB","MySql/MariaDb","Redis"],
-        devOps: ["Docker", "Nginx", "AWS", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
+    ask_me_about: [
+        "Machine Learning & LLMs",
+        "End-to-End AI/ML Projects on GCP",
+        "Python & Data Science EcoSystem",
+        "Music (Guitar)"
+    ],
+core_skills: {
+        machine_learning :[
+            "Traditional ML (Classification, Regression, Clustering, Dimensionality Reduction)"
+            "NLP", // From Sentiment analysis to topic modeling going through POS Tagging, annotations, semantic search, Vectorization ...etc NLP is my core focus 
+            "LLM Fine-Tuning", //  Post training with LoRA/QLoRA or Reinforcement Learning with PPO,DPO or GRPO and other methodologies
+            "Time-Series forecasting" // Don't like it that much but had a lot of experience building Bayesian forecasting models
+            ],
+        programming: ["Python", "R", "JavaScript", "C/C++ (for Arduino)"],
+        favorite_tools : [
+                "MLFLOW", // Amazing lib every data scientist mlengineer or aiengineer should  use it
+                "XGBOOST",
+                "Kubeflow", // The best for creating ml pipeline
+                "GCP (Vertex AI, Dataflow, BQML)", // The main cloud platform where i deploy my work
+                "ADK" // Google Agent Development Framework, nothing to say just that i love how simple it is and how easy it is to tinker with it.
+        ]
     },
-    architecture: ["microservices", "Serverless Architecture", "event-driven", "Single page applications", "PWA"],
+        human_languages: ["French (Fluent)", "English (Fluent)", "Arabic (Fluent)"],
+        interests: ["Music (Guitar)", "Tech Exploration", "Arduino prototyping", "Web Development"]
 }
 ```
-
 # Competitions
 
 | Competions           | Project                                       | Rank |
